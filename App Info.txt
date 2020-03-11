@@ -1,0 +1,5 @@
+This app is a demo about Spring boot and API
+There are two version: with RestController and MVC Controller
+View Tech: JSP
+Need to have Jasper Tomcat to run MVC
+Model and View
